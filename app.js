@@ -1,10 +1,24 @@
-alert("Quiero Kekote de la Kataaaa 😋😊😉") //comando de saida de informação
-
+//comando de saida de informação
 /*
-Grandote e formoso, gosto bastaaaaannnnteeeeee */
-console.log("Bem vindo🍑")
+alert("Quiero Kekote de mi Kataaaa 😋😊😉") 
+alert("Grandote e formoso, gosto pra caramba")
+console.log("Assim de lindo é...🍑")
 
-alert("a media e:")
-alert((8+7+9+2)/4)
+alert("Fio fio tou com vontade de a gente se perder por ai")
+alert(100/5)
+console.log(100/5)
+*/
 
-console.log((8+7+9+2)/4)
+nota1 = 15
+nota2 = 17
+nota3 = 10
+nota4 = 12
+
+console.log("A média de João e: ")
+//console.log((nota1 + nota2 + nota3 + nota4)/4)
+
+media = (nota1 + nota2 + nota3 + nota4) / 4
+
+console.log(media)
+
+
